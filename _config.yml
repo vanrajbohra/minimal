@@ -1,6 +1,18 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Vanraj Bohra </p>
+logo: /assets/img/Logo.png
+
+description:
+  <p align="center">
+  <a href="/assets/pdf/Vanraj Bohra - CV.pdf">Resume</a> |
+  <a href="www.linkedin.com/in/vanrajbohra/">LinkedIn</a> |
+  <a href="https://github.com/vanrajbohra">GitHub</a>
+  
+  <br>   
+  I'm working on Business Intelligence, Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Worked with Applied Materials as Business Intelligence Analyst.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
